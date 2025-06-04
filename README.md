@@ -9,6 +9,7 @@ What this repository provides now is editing related code.
 - threestudio\data\gs.py source(data set)
 - threestudio\systems\two.py checkpoint(source scene)
 - gaussiansplatting\scene\dataset_readers.py train_cam_infos(camera pose)
+- configs\gaussiandreamer-two.yaml prompt(text command)
 
 **Quickstart**
 ```
